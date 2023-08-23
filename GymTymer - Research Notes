@@ -1,0 +1,8 @@
+GymTymer - Research Notes
+What needs to be figured out?
+
+How to connect to a bluetooth device via Raspberry Pi.
+How to build a timer display in Python.
+How to build a UI to interact with and control the timer from a mobile device.
+How to trigger the buzzer via Raspberry Pi. 
+How to display data on the LED Matrix display. 

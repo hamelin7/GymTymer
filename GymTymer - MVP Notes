@@ -1,0 +1,25 @@
+Gym Clock - 
+
+MVP - 
+	Hardware - 
+		Display - 
+		Raspberry Pi - 
+		Android Phone - 
+		Smart watch or heart rate chest band - 
+		Piezo for buzzer
+
+	Software/Services - 
+		Raspbian
+		Adafruit.io
+
+	Functions - 
+		Clock
+		Timer - countdown and countup
+		Heart Rate Display
+		Heart Rate Zone
+		Buzzer
+
+
+Future Additions - 
+Camera support to monitor activity
+
